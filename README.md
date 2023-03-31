@@ -2,8 +2,6 @@
 
 ## Environment
 
----
-
 ### Bots using [discord.py](https://github.com/Rapptz/discord.py)
 
 - Pyenv (Python 3.11.2)
@@ -13,7 +11,6 @@
 
 ## Environment variables
 
----
 Copy [.env.example](./.env.sample) to `.env` and fill in the values.
 
 ```css
