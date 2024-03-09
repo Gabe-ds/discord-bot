@@ -29,3 +29,11 @@
 ## 環境変数
 
 [.env.sample](.env.sample)のファイル名を`.env`に変更して，定義する．
+
+## Bot起動方法
+
+以下のコマンドを実行する．
+
+```shell
+npx ts-node {FILE_PATH}
+```
