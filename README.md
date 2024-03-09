@@ -25,3 +25,15 @@
 
 - [dev-document](https://github.com/Gabe-ds/discord-bot/tree/dev-document): ドキュメント更新用
 - [dev-environment](https://github.com/Gabe-ds/discord-bot/tree/dev-environment): 開発環境更新用
+
+## 環境変数
+
+[.env.sample](.env.sample)のファイル名を`.env`に変更して，定義する．
+
+## Bot起動方法
+
+以下のコマンドを実行する．
+
+```shell
+npx ts-node {FILE_PATH}
+```
