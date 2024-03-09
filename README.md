@@ -20,3 +20,8 @@
 - `dev-`: 開発用
 - `fix-`: 修正用
 - `test-`: テスト用
+
+### 固定ブランチ
+
+- [dev-document](https://github.com/Gabe-ds/discord-bot/tree/dev-document): ドキュメント更新用
+- [dev-environment](https://github.com/Gabe-ds/discord-bot/tree/dev-environment): 開発環境更新用
