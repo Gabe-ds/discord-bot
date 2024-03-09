@@ -9,8 +9,14 @@
 
 ## GitHub運用
 
-### Commit
+### コミットメッセージ
 
 [gitmoji](https://gitmoji.dev/) + Message
 
 > ex: :see_no_evil: .gitignoreに開発環境とGitHub運用の追記
+
+### ブランチ命名規則
+
+- `dev-`: 開発用
+- `fix-`: 修正用
+- `test-`: テスト用
